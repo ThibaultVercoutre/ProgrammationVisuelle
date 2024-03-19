@@ -1,0 +1,12 @@
+####
+#Date: mar. 6 févr. 2024 08:44:56
+#OSName: Windows 10 Enterprise 
+#OSVers: 10.0
+#OSBuild: 19045
+#AppName: LabVIEW
+#Version: 20.0.1 32-bit
+#AppKind: FDS
+#AppModDate: 2/02/2020 00:19 GMT
+#LabVIEW Base Address: 0x004D0000
+
+
